@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!30 &1
+GraphicsSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 12
+  m_Deferred:
+    m_Mode: 1
+    m_Shader: {fileID: 69, guid: 0000000000000000f000000000000000, type: 0}
+  m_DeferredReflections:
+    m_Mode: 1
+    m_Shader: {fileID: 74, guid: 0000000000000000f000000000000000, type: 0}
+  m_ScreenSpaceShadows:
+    m_Mode: 1
+    m_Shader: {fileID: 64, guid: 0000000000000000f000000000000000, type: 0}
+  m_LegacyDeferred:
+    m_Mode: 1
+    m_Shader: {fileID: 63, guid: 0000000000000000f000000000000000, type: 0}
+  m_DepthNormals:
+    m_Mode: 1
+    m_Shader: {fileID: 62, guid: 0000000000000000f000000000000000, type: 0}
+  m_MotionVectors:
+    m_Mode: 1
+    m_Shader: {fileID: 75, guid: 0000000000000000f000000000000000, type: 0}
+  m_LightHalo:
+    m_Mode: 1
+    m_Shader: {fileID: 105, guid: 0000000000000000f000000000000000, type: 0}
+  m_LensFlare:
+    m_Mode: 1
+    m_Shader: {fileID: 102, guid: 0000000000000000f000000000000000, type: 0}
+  m_AlwaysIncludedShaders:
+  - {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15104, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15105, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15106, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 9e54574031d8915469685e9817c07a7f, type: 3}
+  - {fileID: 4800000, guid: c63c0d38dacfbdc418f7501f6edea043, type: 3}
+  - {fileID: 4800000, guid: 2e9e881085b8a5c4f846588497e14945, type: 3}
+  - {fileID: 4800000, guid: ee48af9afad9a47488eb570e93925d98, type: 3}
+  - {fileID: 4800000, guid: 476bbb0b8a36c9e47bc9b148f9fc52ef, type: 3}
+  - {fileID: 4800000, guid: a11a5ec8a82ef184d8750361ecbdddea, type: 3}
+  - {fileID: 4800000, guid: e0e9e08361f22a6438c20e52d4d8ac34, type: 3}
+  - {fileID: 4800000, guid: 6f7c9ba9d5a696d4daa4121c27e9d062, type: 3}
+  - {fileID: 4800000, guid: 845261e54864e0f45bca399b885674b5, type: 3}
+  - {fileID: 4800000, guid: 28e9e95e60661044ba2df8a16529f137, type: 3}
+  - {fileID: 4800000, guid: a574dc798573d4f419353511c251d4df, type: 3}
+  - {fileID: 4800000, guid: dc500fa6e66a79444b53020516b402bf, type: 3}
+  - {fileID: 4800000, guid: bc09f84371d083a4aa2c20098aeac731, type: 3}
+  - {fileID: 4800000, guid: 9c8262f8c14fe9948859a6372416fbd2, type: 3}
+  - {fileID: 4800000, guid: 7b08167217eed0947b0b4638ee20c0b3, type: 3}
+  - {fileID: 4800000, guid: 0b47dfae6df99ac4cab61781b8aabac9, type: 3}
+  - {fileID: 4800000, guid: b81f5c00619dbe446bcccb26ce84c8b0, type: 3}
+  - {fileID: 4800000, guid: c0d9ddd9e6acd9545b29156eeb396e92, type: 3}
+  - {fileID: 4800000, guid: abb08cd28d5886e4f90cf12035879073, type: 3}
+  - {fileID: 4800000, guid: a55a950d0869bd246aa1360c7e70272b, type: 3}
+  - {fileID: 4800000, guid: 89d671011323c884c9d1d35ce73414f6, type: 3}
+  - {fileID: 4800000, guid: 2ceb6f3efa6051642ba7afb2876464f6, type: 3}
+  - {fileID: 4800000, guid: 1466bca23b3e0224ba64529eab28aa67, type: 3}
+  - {fileID: 4800000, guid: 1d83b5f9a78a3a44e8df1e3afc963871, type: 3}
+  - {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10782, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 16000, guid: 0000000000000000f000000000000000, type: 0}
+  m_PreloadedShaders: []
+  m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000,
+    type: 0}
+  m_CustomRenderPipeline: {fileID: 0}
+  m_TransparencySortMode: 0
+  m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+  m_DefaultRenderingPath: 1
+  m_DefaultMobileRenderingPath: 1
+  m_TierSettings: []
+  m_LightmapStripping: 0
+  m_FogStripping: 0
+  m_InstancingStripping: 2
+  m_LightmapKeepPlain: 1
+  m_LightmapKeepDirCombined: 1
+  m_LightmapKeepDynamicPlain: 1
+  m_LightmapKeepDynamicDirCombined: 1
+  m_LightmapKeepShadowMask: 1
+  m_LightmapKeepSubtractive: 1
+  m_FogKeepLinear: 1
+  m_FogKeepExp: 1
+  m_FogKeepExp2: 1
+  m_AlbedoSwatchInfos: []
+  m_LightsUseLinearIntensity: 0
+  m_LightsUseColorTemperature: 0
